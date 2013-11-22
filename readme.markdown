@@ -17,7 +17,7 @@ Next go to "http://ci.testling.com/USER/PROJECT" to see your test status.
 Then you can add a badge in your readme.markdown with the test status:
 
 ```
-[![browser support](http://ci.testling.com/USER/PROJECT.png)](http://ci.testling.com/USER/PROJECT)
+[![browser support](https://ci.testling.com/USER/PROJECT.png)](http://ci.testling.com/USER/PROJECT)
 ```
 
 # license
